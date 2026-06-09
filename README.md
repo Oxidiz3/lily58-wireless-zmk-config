@@ -32,4 +32,8 @@ If you already have a .keymap file and nothing else, send me:
 your GitHub repository URL (or a screenshot of its files),
 the controller you're using (nice!nano v2 or the Pro Micro nRF52840 clone),
 
-and I can tell you exactly which files need to be added and what your build.yaml should contain.
+Create your own custom keymap here https://nickcoutsos.github.io/keymap-editor/
+And create your kemap image here https://keymap-drawer.streamlit.app/
+
+<img width="984" height="1173" alt="my_keymap060826" src="https://github.com/user-attachments/assets/3d22bc34-f180-4a12-8389-f50956b2dd01" />
+
