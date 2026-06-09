@@ -35,5 +35,4 @@ the controller you're using (nice!nano v2 or the Pro Micro nRF52840 clone),
 Create your own custom keymap here https://nickcoutsos.github.io/keymap-editor/
 And create your kemap image here https://keymap-drawer.streamlit.app/
 
-<img width="984" height="1173" alt="my_keymap060826" src="https://github.com/user-attachments/assets/3d22bc34-f180-4a12-8389-f50956b2dd01" />
-
+<img width="984" height="1173" alt="my_keymap060826" src="https://github.com/user-attachments/assets/22001dee-1321-46b3-ac27-1ebf12ee9320" />
