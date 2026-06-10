@@ -16,4 +16,4 @@ After you push:
 Create your own custom keymap here https://nickcoutsos.github.io/keymap-editor/
 And create your kemap image here https://keymap-drawer.streamlit.app/
 
-<img width="984" height="1173" alt="my_keymap" src="https://github.com/user-attachments/assets/68109de1-b94f-4a9f-8af7-bba4f45354b4" />
+<img width="984" height="801" alt="my_keymap" src="https://github.com/user-attachments/assets/4fe0dcd4-a2fc-442d-b5c4-c2ccf77cf90b" />
